@@ -1,0 +1,19 @@
+{
+    "name": "yatilabs/api",
+    "description": "API CRUD Base package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yatilabs\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daman Mokha",
+            "email": "daman.mokha@yatilabs.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
